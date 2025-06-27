@@ -2,17 +2,11 @@
 Take a peek around and see some of the projects I have in store for you (or repositories I found to contribute to)! My projects don't bite (or so I think) :D
 
 ## Skills
-Some skills I'm familiar with throughout my professional, personal, and academic settings. 
+Some skills gained throughout my professional, personal, and academic settings. 
 
----
-CI/CD Pipelines and DevOps:
-<p align="left"><a href="https://github.com/joalen"><img alt="Git, Azure, Google Cloud Platform, Docker, GitHub Actions", src="https://skillicons.dev/icons?i=git,azure,gcp,docker,githubactions" /></a></p>
-Quality Assurance & Testing Tools:
-<p align="left"><a href="https://github.com/joalen"><img src="https://skillicons.dev/icons?i=selenium,postman"/></a></p>
-Technology Stacks:
-<p align="left"><a href="https://github.com/joalen"><img src="https://skillicons.dev/icons?i=rabbitmq,aws," /></a></p>
-Languages:
-<p align="left"><a href="https://github.com/joalen"><img src="https://skillicons.dev/icons?i=java,net,cpp,python,html,js" /></a></p>
+| Languages | CI/CD & DevOps | Testing & QA | Technology Stack |
+|:---------:|:--------------:|:------------:|:----------------:|
+| [![Languages](https://skillicons.dev/icons?i=java,net,cpp,python,html,js)](https://github.com/joalen) | [![CI/CD](https://skillicons.dev/icons?i=git,azure,gcp,docker,githubactions)](https://github.com/joalen) | [![Testing](https://skillicons.dev/icons?i=selenium,postman)](https://github.com/joalen) | [![Tech Stack](https://skillicons.dev/icons?i=rabbitmq,aws)](https://github.com/joalen) |
 
 <!--
 **joalen/joalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
