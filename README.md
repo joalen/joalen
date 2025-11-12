@@ -12,7 +12,6 @@ Some skills gained throughout my professional, personal, and academic settings.
 | [![Cloud](https://skillicons.dev/icons?i=aws,rabbitmq,gcp,linux)](https://github.com/joalen) | [![LLVM](https://github.com/joalen/joalen/blob/main/assets/llvm.svg)](https://github.com/joalen) [![JVM](https://github.com/joalen/joalen/blob/main/assets/jvm.svg)](https://github.com/joalen) | [![Tech](https://skillicons.dev/icons?i=tensorflow,nestjs,react)](https://github.com/joalen) [![Fastify](https://github.com/joalen/joalen/blob/main/assets/fastify.svg)](https://github.com/joalen) [![Scikit](https://github.com/joalen/joalen/blob/main/assets/scikit.svg)](https://github.com/joalen) | [![Design](https://skillicons.dev/icons?i=figma,xd)](https://github.com/joalen) |
 
 ## Tinkering With / Works in Progress
-- **JitWatch by AdoptOpenJDK**: More of me wanting to contribute to adding ARM decoding in the tooltips for translating assembly code from hotspot logs (currently under review)
 - **SAGE by ACM UT Dallas**: Collaborating and leading efforts in developing an advising solution for college students at UT Dallas
 - **Research at the Software and Security Testing Lab - UT Dallas**: Pursuing research in the Software and Security Testing Lab and specializing in research on dynamic/static code analysis tools
 - **Nexity (a Haskell Compiler Flavor)**: Since I'm doing a course on programming language paradigms, I wanted to revisit this project and make some cool editions that can make this compiler robust and a nice-to-use
