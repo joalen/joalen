@@ -13,7 +13,6 @@ Some skills gained throughout my professional, personal, and academic settings.
 
 ## Tinkering With / Works in Progress
 - **SAGE by ACM UT Dallas**: Collaborating and leading efforts in developing an advising solution for college students at UT Dallas
-- **Research at the Software and Security Testing Lab - UT Dallas**: Pursuing research in the Software and Security Testing Lab and specializing in research on dynamic/static code analysis tools
 - **Nexity (a Haskell Compiler Flavor)**: Since I'm doing a course on programming language paradigms, I wanted to revisit this project and make some cool editions that can make this compiler robust and a nice-to-use
 
 
