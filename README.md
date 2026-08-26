@@ -13,7 +13,7 @@ Some skills gained throughout my professional, personal, and academic settings.
 
 ## Tinkering With / Works in Progress
 - **SAGE by ACM UT Dallas**: Collaborating and leading efforts in developing an advising solution for college students at UT Dallas
-- **Latice**: A personal project that I discovered and wanted to solve a particular pain point I had with a few bit of projects I did and thought why not to gratify my curiosity a bit
+- **Lattice**: A personal project that I discovered and wanted to solve a particular pain point I had with a few bit of projects I did and thought why not to gratify my curiosity a bit
 
 
 <!--
