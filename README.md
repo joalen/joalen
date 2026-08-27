@@ -85,6 +85,8 @@ Some skills gained throughout my professional, personal, and academic settings.
   <img src="https://img.shields.io/badge/UI_Testing-DB2777?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Regression_Testing-D97706?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Fuzzing-B91C1C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Dependency_Mocking-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD_Testing-0F766E?style=for-the-badge" />
 </p>
 
 ## Tinkering With / Works in Progress
