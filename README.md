@@ -95,7 +95,7 @@ Some skills gained throughout my professional, personal, and academic settings.
 ## Tinkering With / Works in Progress
 - **SAGE by ACM UT Dallas**: Collaborating and leading efforts in developing an advising solution for college students at UT Dallas
 - **Lattice**: A personal project that I discovered and wanted to solve a particular pain point I had with a few bit of projects I did and thought why not to gratify my curiosity a bit
-
+- **Meridian**: MapReduce/Apache Hadoop project that not only is me discovering the textual analysis component BUT also other formats such as analyzing Git pack files or shipping data to which those stood out to me in curiosity
 
 <!--
 **joalen/joalen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
