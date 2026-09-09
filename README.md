@@ -40,6 +40,9 @@ Some skills gained throughout my professional, personal, and academic settings.
   <img src="https://img.shields.io/badge/Domain_Driven_Design-8B5E34?style=for-the-badge" />
 </p>
 
+## Data Analytics
+<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+
 ## AI / RAG Engineering
 <p>
   <img src="https://img.shields.io/badge/Embeddings-000000?style=for-the-badge" />
